@@ -7,8 +7,8 @@ const colors = {
     themeDark: '#1976d2',
     pureWhite: '#FFFFFF',
     pureBlack: '#000000',
-    deepDark: '#333333'
-
+    deepDark: '#333333',
+    yellow: 'FFD080',
 };
 
 export default colors;

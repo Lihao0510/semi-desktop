@@ -5,7 +5,7 @@
     height: 100%;
     align-items: flex-end;
     justify-content: center;
-    background-color: #2196F3;
+    background-image: url("../images/background/bg_login.jpg");
 }
 
 #loginSpace {
